@@ -1,7 +1,7 @@
 # 🚗 Donkey Car Reinforcement Learning - Beginner Guide
 
--A simple guide for beginners to train an AI that can drive around a track using reinforcement learning!
--All of them are based on WSL2 Ubuntu20.04.
+- A simple guide for beginners to train an AI that can drive around a track using reinforcement learning!
+- All of them are based on WSL2 Ubuntu20.04.
 
 ## 🎯 What You'll Learn
 
