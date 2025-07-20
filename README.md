@@ -181,6 +181,3 @@ Feel free to submit issues and enhancement requests!
 
 This project is open source and available under the [MIT License](LICENSE).
 
----
-
-**Made with ❤️ for high school students learning AI!** 
